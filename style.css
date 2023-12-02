@@ -96,4 +96,10 @@ nav a{
     color: white; 
 }
  
+nav {
+    text-align: center;
+}
 
+img {
+    text-align: center;
+}
